@@ -1,1 +1,1 @@
-print("Mykhailo Pilat, KN-4")
+print("Mykhailo Pilat, KN-4 ")
